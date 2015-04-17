@@ -4,11 +4,11 @@
 #include <math.h>
 
 /*
-	reverse.c
+	revSwap.c
 
 	Usage: ./revSwap (input to reverse)
 
-	This is a simple program that will reverse the user's input using swaps
+	This is a simple program that will reverse the argument string using swaps
 
 	By Shunman Tse		4/17/2015
 */

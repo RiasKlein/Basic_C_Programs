@@ -4,11 +4,11 @@
 #include <math.h>
 
 /*
-	reverse.c
+	revBuffer.c
 
 	Usage: ./revBuffer (input to reverse)
 
-	This is a simple program that will reverse the user's input using a buffer.
+	This is a simple program that will reverse the argument string using a buffer.
 
 	By Shunman Tse		4/17/2015
 */
