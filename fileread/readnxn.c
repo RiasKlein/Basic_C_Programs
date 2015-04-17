@@ -6,7 +6,7 @@
 /*
 	readnxn.c
 
-	Usage: ./read (filename to read)
+	Usage: ./readnxn (filename to read)
 
 	Simple program to read in nxn matrix of ints into 2D array
 
