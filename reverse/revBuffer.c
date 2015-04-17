@@ -6,11 +6,9 @@
 /*
 	reverse.c
 
-	Usage: ./reverse (input to reverse)
+	Usage: ./revBuffer (input to reverse)
 
-	This is a simple program that will reverse the user's input.
-	It will print out the reversed output.
-	Then it will wait for a keypress before ending.
+	This is a simple program that will reverse the user's input using a buffer.
 
 	By Shunman Tse		4/17/2015
 */
@@ -52,7 +50,7 @@ int main(int argc, char* argv[]) {
 
 	// An input should have been provided as an argument 
 	if (argc != 2) {
-		printf("Usage: ./reverse (input to reverse)\n");
+		printf("Usage: ./revBuffer (input to reverse)\n");
 		getchar();		// Wait for keypress so user can see
 		exit(1);
 	}
